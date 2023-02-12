@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks .
 - 💼 &nbsp; Full stack web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- 
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ |  C  | Java  
