@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ |  C  | Java  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
 - 🛢 &nbsp; MySQL | MongoDB | Xampp
 - 🔧 &nbsp; Visual Studio code | NetBeans | Git
 - 🖥 &nbsp; Figma
